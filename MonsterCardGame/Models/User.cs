@@ -10,6 +10,7 @@ namespace MonsterCardGame.Models
     {
         public string name { get; set; }
         public string password { get; set; }
+        public int coins = 20;
         public Stack<Card>currentCards { get; set; }
 
         public User(string name, string password)

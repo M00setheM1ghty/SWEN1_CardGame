@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MonsterCardGame.Models.Card">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAgAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonsterCardGame.Models.Stack">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAACAAACA=</HashCode>
+      <FileName>Models\Stack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonsterCardGame.Models.User">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAEEAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MonsterCardGame.Models.elementType">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Card.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MonsterCardGame.Models.cardType">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\Card.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
